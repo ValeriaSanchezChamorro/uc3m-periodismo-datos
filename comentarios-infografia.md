@@ -16,7 +16,7 @@ Si el resultado es óptimo, se conseguirá cumplir con los objetivos estipulados
 1. _Infografía sobre páginas web, sitios web y aplicaciones web_
 
 **Enlace** 
-https://ed.team/blog/mejores-infografias-del-2020
+https://edteam-media.s3.amazonaws.com/blogs/original/239433bd-c725-45a9-9db8-5dc2a50dfdbb.png
 
 En la presente infografía publicada en _EDteam_, se recogen diferentes datos referentes a las diferencias entre **página web**, **sitio web** y **aplicación web**. Para ello, utilizan una serie de informaciones cortas, divididas en tres columnas y con sus correspondientes colores diferenciados: azul (página web), verde (sitio web) y rojo (aplicación web). Los títulos de cada información despuntan por tener un tamaño mayor resaltado en **negrita**, y acompañados de una figura del mismo color. 
 Asimismo, se sirven de una serie de ilustraciones relacionadas con la información tratada, de tal forma que llaman la atención del consumidor.
