@@ -15,5 +15,5 @@ Es una _API_ que tiene cuatro tareas posibles:
 4. PUT
 
 ## Una imagen 
-[Infografía](/img/descarga.jpg)
+![Infografía](/img/descarga.jpg)
 
