@@ -21,7 +21,7 @@ En cuanto a la información que incluye, es posible observar la "dieta ideal" qu
 
 ## Los elementos de la infografía
 
-![infografia-creativa.png](/img/infografia-creativa)
+![infografia-creativa.png](/img/infografia-creativa.png)
 
 **1. El titular**
 
