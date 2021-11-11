@@ -62,4 +62,4 @@ La infografía incluye una serie de datos sobre un tema concreto (la dieta ideal
 
 ##Imagen
 
-<img src="img/infografia.jepg">
+![infografia.jpeg](/img/infografia.jpeg)
