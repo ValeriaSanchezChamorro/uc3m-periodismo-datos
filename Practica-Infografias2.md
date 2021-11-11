@@ -59,3 +59,7 @@ La infografía ha sido firmada por el periódico _El País_, que realiza sus pro
 ## Análisis de efectividad
 
 La infografía incluye una serie de datos sobre un tema concreto (la dieta ideal), acompañada del elemento visual del gráfico con una gama cromática concreta y una tipografía adecuada. Los elementos están colocados de forma adecuada en el espacio, logrando una imagen armoniosa que muestra unos datos dosificados y divididos según conviene. Es, sobre todo, una infografía funcional. No obstante, no se trata de una infografía original o creativa, sino de un diseño simple. Consigue, de este modo, garantizar la comprensión del mensaje y su posterior memorización frente a la forma tradicional de texto a la que acompaña, más larga y tediosa. 
+
+##Imagen
+
+<img src="img/infografia.jepg">
