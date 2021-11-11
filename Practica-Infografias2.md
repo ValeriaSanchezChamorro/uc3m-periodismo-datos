@@ -2,11 +2,16 @@
 
 ## INFOGRAFÍA SOBRE LA DIETA DIARIA SOSTENIBLE
 
+https://elpais.com/sociedad/2019/01/16/actualidad/1547667687_190434.html
+
 La presente infografía, _La dieta diaria sostenible_, es una representación visual que ofrece información sobre una dieta ideal. Los objetivos de esta son, según los datos de la revista científica _The Lancet_, "reducir el **consumo mundial de carnes rojas y azúcar**, **duplicar la ingesta de frutas, verduras y legumbres**, que el sector agrícula y ganadero deje de **emitir dióxido de carbono** y **reduzca drásticamente la contaminación por nitrógeno y fósforo**, **limitar el empleo de agua**, **no aumentar más el uso de tierras**, y **reducir un 50% el desperdicio alimenticio**". Con estas medidas se pretende preservar la salud del planeta, y para ello hay que cambiar los hábitos de consumo. 
   
 La infografía acompaña a una noticia publicada en _El País_ en enero de 2019, y muestra los cambios profundos que habrá que aplicar de cara al año 2050 en la dieta y en el modelo de producción para garantizar la salud planetaria. Estas transformaciones "podrían evitar 11 millones de muertes prematuras al año relacionadas con alimentación", según afirman los expertos.
 
 ## Los datos de la Infografía
+
+![infografia.png](/img/infografia.png)
+
 
 En cuanto a la información que incluye, es posible observar la "dieta ideal" que plantea la comisión EAT-Lance, basada en un total diario de **2.500 kilocalorías**. Se propone a su vez una **división por alimentos o componentes alimenticios** y la **cantidad necesaria que ingerir diariamente**:
 
@@ -22,6 +27,7 @@ En cuanto a la información que incluye, es posible observar la "dieta ideal" qu
 ## Los elementos de la infografía
 
 ![infografia-creativa.png](/img/infografia-creativa.png)
+
 
 **1. El titular**
 
