@@ -2,11 +2,9 @@
 
 ## INFOGRAFÍA SOBRE LA DIETA DIARIA SOSTENIBLE
 
-https://elpais.com/sociedad/2019/01/16/actualidad/1547667687_190434.html
-
-La presente infografía, _La dieta diaria sostenible_, es una representación visual que ofrece información sobre una dieta ideal. Los objetivos de esta son, según los datos de la revista científica _The Lancet_, "reducir el **consumo mundial de carnes rojas y azúcar**, **duplicar la ingesta de frutas, verduras y legumbres**, que el sector agrícula y ganadero deje de **emitir dióxido de carbono** y **reduzca drásticamente la contaminación por nitrógeno y fósforo**, **limitar el empleo de agua**, **no aumentar más el uso de tierras**, y **reducir un 50% el desperdicio alimenticio**". Con estas medidas se pretende preservar la salud del planeta, y para ello hay que cambiar los hábitos de consumo. 
+La presente infografía, _La dieta diaria sostenible_, es una representación visual que ofrece información sobre una dieta ideal. Los objetivos de esta son, según los datos de la revista científica _The Lancet_, "reducir el **consumo mundial de carnes rojas y azúcar**, **duplicar la ingesta de frutas, verduras y legumbres**, que el sector agrícula y ganadero deje de **emitir dióxido de carbono** y **reduzca drásticamente la contaminación por nitrógeno y fósforo**, **limitar el empleo de agua**, **no aumentar más el uso de tierras**, y **reducir un 50% el desperdicio alimenticio**" (Planelles et Delle Femmine, 2019, _El País_). Con estas medidas se pretende preservar la salud del planeta, y para ello hay que cambiar los hábitos de consumo. 
   
-La infografía acompaña a una noticia publicada en _El País_ en enero de 2019, y muestra los cambios profundos que habrá que aplicar de cara al año 2050 en la dieta y en el modelo de producción para garantizar la salud planetaria. Estas transformaciones "podrían evitar 11 millones de muertes prematuras al año relacionadas con alimentación", según afirman los expertos.
+La infografía acompaña a una noticia publicada en _El País_ en enero de 2019, y muestra los cambios profundos que habrá que aplicar de cara al año 2050 en la dieta y en el modelo de producción para garantizar la salud planetaria. Estas transformaciones "podrían evitar 11 millones de muertes prematuras al año relacionadas con alimentación", según afirma la comisión de EAT-Lancet (Ídem).
 
 ## Los datos de la Infografía
 
@@ -28,6 +26,7 @@ En cuanto a la información que incluye, es posible observar la "dieta ideal" qu
 
 ![infografia-creativa.png](/img/infografia-creativa.png)
 
+A continuación, se analizarán aquellos elementos de la infografía que más destacan:
 
 **1. El titular**
 
@@ -56,21 +55,29 @@ Las sectores a su vez se diferencian por el uso de una grama cromática diversa:
 - Amarillo para las grasas añadidas
 - Crema para patatas y yuca
 
+Estos colores se asocian, generalmente, con los alimentos a los que acompañan. Así, el lector puede buscar rápidamente las verduras porque las relaciona con el color verde, del mismo modo que identifica la leche y otros productos lácteos con el color azul. 
+
 **5. Fuentes de información**
 
 La infografía indica de forma expresa la fuente de información utilizada para realizar la infografía: Comisión EAT-Lancet.
 
 **6. Crédito de autor**
 
-La infografía ha sido firmada por el periódico _El País_, que realiza sus propias elaboraciones para acompañar a los diferentes textos que publica.
+La infografía ha sido firmada por el periódico _El País_, que realiza sus propias elaboraciones para acompañar a los diferentes textos que publica. El periódico utiliza multitud de infografías, visualizaciones y distintos trabajos de periodismo de datos, que publica en su cuenta de _Twitter_, @elpais_info. 
 
 ## Análisis de efectividad
 
 ![efectividad.jpg](/img/efectividad.jpg)
 
 
-La infografía incluye una serie de datos sobre un tema concreto, la dieta ideal, acompañados del elemento visual del gráfico. Utiliza una gama cromática concreta y una tipografía adecuada, y los elementos están colocados de forma óptima en el espacio. De este modo, se logra una imagen armoniosa que muestra unos datos dosificados y divididos según conviene. Es, sobre todo, una infografía informativa y funcional: no se trata de una creación original o creativa, sino de un diseño simple. Sin embargo, consigue de este modo garantizar la comprensión del mensaje (y su posterior memorización) frente a la forma tradicional de texto a la que acompaña, más larga y tediosa. 
+La infografía incluye una serie de datos sobre un tema concreto, la dieta ideal para ayudar a cuidar el medioambiente y a las propias personas. Este tema, de difícil tratamiento, requiere de elementos que faciliten la comprensión de la información para que el lector pueda llevar a cabo el cambio de estilo de vida propuesto. Los datos (limitados a los alimentos y a sus cantidades) van acompañados del elemento visual del gráfico. Asimismo, utiliza una gama cromática concreta (explicada anteriormente) y una tipografía adecuada (sin serifas, redonda y de fácil lectura). En cuanto a los elementos, estos están colocados de forma óptima en el espacio: el gráfico circular en el centro y el icono que identifica el tema de la dieta en la esquina superior izquierda. Además, datos y sectores del gráfico se unen a través de unas flechas. De este modo, se logra una imagen armoniosa que muestra unos datos dosificados y divididos según conviene. Es, sobre todo, una infografía informativa y funcional: no se trata de una creación original o creativa, sino de un diseño simple. Sin embargo, consigue de este modo garantizar la comprensión del mensaje (y su posterior memorización) frente a la forma tradicional de texto a la que acompaña, más larga y tediosa. 
 
 ## Imagen
 
 ![infografia.jpeg](/img/infografia.jpeg)
+
+
+## Bibliografía
+
+- **PLANELLES, M., DELLE FEMMINE, L. (2019).** "La dieta perfecta para salvar el planeta y la salud del ser humano". _El País_. [Fecha de consulta: 11/11/2021]. Recuperado desde: https://elpais.com/sociedad/2019/01/16/actualidad/1547667687_190434.html
+
