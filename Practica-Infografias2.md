@@ -4,7 +4,7 @@
 
 La presente infografía, _La dieta diaria sostenible_, es una representación visual que ofrece información sobre una dieta ideal. Los objetivos de esta son, según los datos de la revista científica _The Lancet_, "reducir el **consumo mundial de carnes rojas y azúcar**, **duplicar la ingesta de frutas, verduras y legumbres**, que el sector agrícula y ganadero deje de **emitir dióxido de carbono** y **reduzca drásticamente la contaminación por nitrógeno y fósforo**, **limitar el empleo de agua**, **no aumentar más el uso de tierras**, y **reducir un 50% el desperdicio alimenticio**" (Planelles et Delle Femmine, 2019, _El País_). Con estas medidas se pretende preservar la salud del planeta, y para ello hay que cambiar los hábitos de consumo. 
   
-La infografía acompaña a una noticia publicada en _El País_ en enero de 2019, y muestra los cambios profundos que habrá que aplicar de cara al año 2050 en la dieta y en el modelo de producción para garantizar la salud planetaria. Estas transformaciones "podrían evitar 11 millones de muertes prematuras al año relacionadas con alimentación", según afirma la comisión de EAT-Lancet (Ídem).
+La infografía acompaña a una noticia publicada en _El País_ en enero de 2019 y muestra los cambios profundos que habrá que aplicar de cara al año 2050 en la dieta y en el modelo de producción para garantizar la salud planetaria. Estas transformaciones "podrían evitar 11 millones de muertes prematuras al año relacionadas con alimentación", según afirma la comisión de EAT-Lancet (Ídem).
 
 ## Los datos de la Infografía
 
@@ -42,7 +42,7 @@ Las cifras y los datos que acompañan al texto permiten saber la cantidad exacta
 
 **4. Imagen y diseño**
 
-El diseño responde a un gráfico circular dividido en seis partes correspondientes a los alimentos y a los componentes, divididos en subpartes en el caso de las **proteínas** y de las **grasas añadidas**. En la parte superior izquierda, se incluye el icono de un plato con dos cubiertos que indica que la temática de la infografía es alimenticia. 
+El diseño responde a un gráfico circular dividido en seis partes correspondientes a los alimentos y a los componentes, fragmentados a su vez en subpartes en los casos de las **proteínas** y de las **grasas añadidas**. En la parte superior izquierda se incluye el icono de un plato con dos cubiertos que indica que la temática de la infografía es alimenticia. 
 
 Las sectores a su vez se diferencian por el uso de una grama cromática diversa:
 
@@ -63,14 +63,14 @@ La infografía indica de forma expresa la fuente de información utilizada para 
 
 **6. Crédito de autor**
 
-La infografía ha sido firmada por el periódico _El País_, que realiza sus propias elaboraciones para acompañar a los diferentes textos que publica. El periódico utiliza multitud de infografías, visualizaciones y distintos trabajos de periodismo de datos, que publica en su cuenta de _Twitter_, @elpais_info. 
+La infografía ha sido firmada por el periódico _El País_, que realiza sus propias elaboraciones para acompañar a los diferentes textos que publica. El periódico utiliza multitud de infografías, visualizaciones y distintos trabajos de periodismo de datos que publica en su cuenta de _Twitter_, @elpais_info. 
 
 ## Análisis de efectividad
 
 ![efectividad.jpg](/img/efectividad.jpg)
 
 
-La infografía incluye una serie de datos sobre un tema concreto, la dieta ideal para ayudar a cuidar el medioambiente y a las propias personas. Este tema, de difícil tratamiento, requiere de elementos que faciliten la comprensión de la información para que el lector pueda llevar a cabo el cambio de estilo de vida propuesto. Los datos (limitados a los alimentos y a sus cantidades) van acompañados del elemento visual del gráfico. Asimismo, utiliza una gama cromática concreta (explicada anteriormente) y una tipografía adecuada (sin serifas, redonda y de fácil lectura). En cuanto a los elementos, estos están colocados de forma óptima en el espacio: el gráfico circular en el centro y el icono que identifica el tema de la dieta en la esquina superior izquierda. Además, datos y sectores del gráfico se unen a través de unas flechas. De este modo, se logra una imagen armoniosa que muestra unos datos dosificados y divididos según conviene. Es, sobre todo, una infografía informativa y funcional: no se trata de una creación original o creativa, sino de un diseño simple. Sin embargo, consigue de este modo garantizar la comprensión del mensaje (y su posterior memorización) frente a la forma tradicional de texto a la que acompaña, más larga y tediosa. 
+La infografía incluye una serie de datos sobre un tema concreto: la dieta ideal para ayudar a cuidar el medioambiente y a las propias personas. Esta cuestión, de difícil tratamiento, requiere de elementos que faciliten la comprensión de la información para que el lector pueda llevar a cabo el cambio de estilo de vida propuesto. Los datos, limitados a los alimentos y a sus cantidades, van acompañados del elemento visual del gráfico. Asimismo, utiliza una gama cromática concreta (explicada anteriormente) y una tipografía adecuada (sin serifas, redonda y de fácil lectura). En cuanto a los elementos, estos están colocados de forma óptima en el espacio: el gráfico circular en el centro y el icono que identifica el contenido de la representación en la esquina superior izquierda. Además, datos y sectores del gráfico se unen a través de unas flechas. De este modo, se logra una imagen armoniosa que muestra unos datos dosificados y divididos según conviene. Es, sobre todo, una infografía informativa y funcional. No se trata de una creación original o creativa, sino de un diseño simple. Sin embargo, consigue de este modo garantizar la comprensión del mensaje (y su posterior memorización) frente a la forma tradicional de texto a la que acompaña, más larga y tediosa. 
 
 ## Imagen
 
