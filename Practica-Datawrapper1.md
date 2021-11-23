@@ -18,14 +18,14 @@ Una vez eliminadas se ha utilizado la función **Cluster** para agrupar aquellos
 
 Por último, se ha utilizado Excel para sumar el número total de _#Hashtags_ en el período de tiempo de un año (2020). Gracias a la fórmula numérica **=SUMAR.SI** se han contabilizado los resultados totales de los ocho días más felicitados en Twitter:
 
--	FelizNavidad
--	FelizAño 
--	FelizDiadeLaMadre
--	FelizDiaDelPadre
--	FelizAlzamiento
--	Feliz Halloween
--	FelizDiaDelTrabajador
--	Feliz Pascua
+-	FelizNavidad (33.145.172)
+-	FelizAño (6.345.842)
+-	FelizDiadeLaMadre (683.633)
+-	FelizDiaDelPadre (526.645)
+-	FelizAlzamiento (480.126)
+-	Feliz Halloween (315.544)
+-	FelizDiaDelTrabajador (180.599)
+-	Feliz Pascua (124.774)
 
 ## Representación gráfica
 
@@ -33,5 +33,13 @@ Para la creación de los gráficos se ha utilizado tanto la academia de Datawrap
 
 ![festividad1.png](/img/festividad1.png)
 
+El siguiente gráfico muestra las diferentes felicitaciones en algunos días significativos para la población en Twitter. _#FelizNavidad_ obtiene un primer puesto muy superior al del resto, seguido de #FelizAño. El podio lo cierra la felicitación del Día de la Madre, aunque ya los datos son muy inferiores a los de los dos primeros _#Hashtags_. 
+Los datos se recogen en un gráfico de barras en el que se han ordenado los resultados de mayor a menor, facilitando así la comparación de los resultados. Se ha personalizado el estilo del gráfico mediante una selección de colores determinada. Para su elección se ha buscado qué colores se relacionan con cada festividad. Por ello, se ha seleccionado el verde para la Navidad, el amarillo para la Nochevieja por su semejanza con el dorado o el morado para el Día de la Madre por su relación con la figura femenina. El día del alzamiento se ha dejado en color gris porque no se trata de una festividad. Sin embargo, se ha mantenido el dato debido a la gran cantidad de tweets sobre el tema. Asimismo, se consigue un diseño más atractivo y llamativo que permite al usuario diferenciar unas categorías de otras fácilmente. 
+
+Se ha elegido el gráfico de barras es uno de los más completos en cuanto a información (encabezado con etiquetas descriptivas, categorías y valores numéricos). Además, se trata de un tipo de gráfico fácil de leer y de entender. 
+ 
 ![festividad2.png](/img/festividad2.png)
 
+El segundo gráfico refleja la cantidad de tweets que se pusieron en las dos festividades más felicitadas en Twitter, **Nochebuena** y **Nochevieja**. A pesar de que a priori se podría pensar que la Nochevieja es más felicitada en Redes Sociales, los resultados de las felicitaciones en Twitter el día de Navidad son sorprendentes. Con el gráfico circular el usuario obtiene rápidamente la respuesta sobre qué festividad es más celebrada en la red social. En cuanto al uso de los colores, se han escogido los mismos que en el gráfico anterior por su complementariedad. 
+
+Se ha escogido el gráfico circular porque es óptimo para mostrar información sobre pocos datos. 
