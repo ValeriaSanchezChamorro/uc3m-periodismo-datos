@@ -1,8 +1,10 @@
 # ¿Qué se festeja más en Twitter?
 
-A partir de los datos del **proyecto TRESCA** vertidos en el documento CSV _feliz.csv_ se han realizado dos gráficos relacionados con la felicitación de determinadas celebraciones en Twitter. Para obtener los resultados finales se ha limpiado, operado y ordenado la información del CSV mediante _OpenRefine_ y _Excel_. Finalmente se han trasladado los datos a _Datawrapper_ para conseguir las representaciones gráficas.  
+En el presente trabajo se pretende exponer los resultados obtenidos tras el análisis de los datos del **proyecto _TRESCA_**. A partir de las informaciones vertidas en el documento CSV _feliz.csv_ se han realizado dos gráficos relacionados con la felicitación de determinadas celebraciones en Twitter. Para obtener los resultados finales se ha limpiado, operado y ordenado el contenido del CSV mediante _OpenRefine_. Finalmente se han trasladado los datos a _Datawrapper_ para conseguir las representaciones gráficas.  
 
 ## Trabajando con los datos
+
+Las Redes Sociales son estructuras de Internet en las que los individuos se relacionan de forma rápida. Además, operan en distintos niveles (uno puede utilizar las redes para relacionarse, pero también para su ámbito profesional). Sin embargo, siempre permiten ese intercambio de informaciones ilimitado. Estas redes se utilizan principalmente para comunicarse, pero también sirven para informarse, entretenerse, compartir contenidos y opiniones o comprar productos, entre muchos otros usos. Desde las Redes Sociales es incluso posible convocar manifestaciones masivas. En definitiva, sirven para casi todo lo que se puede imaginar. 
 
 La primera dificultad que se ha encontrado reside en que los datos con los que se ha trabajado no representan la realidad en su totalidad. Todos aquellos días en los que los _#Hashtags_ no han superado los 10.000 tweets no son contabilizados en el CSV. Por lo tanto, las informaciones con las que se cuenta son una estimación de la realidad. 
 
@@ -12,11 +14,11 @@ Para la creación de los gráficos se ha escogido un período de tiempo delimita
 
 Después se ha procedido a eliminar las celdas vacías que no contenían el total de _#Hashtags_. Para ello se ha creado una **nueva faceta personalizada para celdas nulas** que separa filas en blanco y filas con datos. Después se han eliminado aquellas celdas vacías. 
 
-Una vez eliminadas se ha utilizado la función **Cluster** para agrupar aquellos _#Hashtags_ que tratan la misma temática y que varían solamente en algunos caracteres (por ejemplo, _#Feliz Dia de Navidad_ y _#FelizNavidad_). En la columna dedicada a los nombres de los _#Hashtags_ se ha usado la herramienta de **Editar texto**. Con ella se han cambiado varios caracteres de algunos tweets. Por ejemplo, se ha editado el nombre de la etiqueta _Feliz Año_ para que el _#Hashtag_ no tenga espaciado (#FelizAño). Este cambio se ha aplicado a toda la columna con la que se ha trabajado. 
+Una vez eliminadas se ha utilizado la función **Cluster** para agrupar aquellos _#Hashtags_ que tratan la misma temática yque varían solamente en algunos caracteres (por ejemplo, _#Feliz Dia de Navidad_ y _#FelizNavidad_). En la columna dedicada a los nombres de los _#Hashtags_ se ha usado la herramienta de **Editar texto**. Con ella se han cambiado varios caracteres de algunos tweets. Por ejemplo, se ha editado el nombre de la etiqueta _Feliz Año_ para que el _#Hashtag_ no tenga espaciado (#FelizAño). Este cambio se ha aplicado a toda la columna con la que se ha trabajado. 
 
 ![editar.png](/img/editar.png)
 
-Por último, se ha utilizado Excel para sumar el número total de _#Hashtags_ en el período de tiempo de un año (2020). Gracias a la fórmula numérica **=SUMAR.SI** se han contabilizado los resultados totales de los ocho días más felicitados en Twitter:
+Por último, se ha utilizado la fórmula _row.record.celss ['Numero'].value.sum() para sumar el número total de _#Hashtags_ en el período de tiempo de un año (2020). Gracias a la fórmula numérica y a la aplicación de una faceta de texto sobre la columna de los _#Hasghtags_ se han contabilizado los resultados totales de los ocho días más felicitados en Twitter:
 
 -	FelizNavidad (33.145.172)
 -	FelizAño (6.345.842)
