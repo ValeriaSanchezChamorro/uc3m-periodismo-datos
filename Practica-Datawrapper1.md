@@ -29,8 +29,11 @@ Dado que lo más relevante para el trabajo era exponer la cantidad de tweets sob
 -       FelizDiaDelTrabajador (180.599)
 -       Feliz Pascua (124.774)
 
+![blank.png](/img.blank.png)
+
 Por último, se ha utilizado la fórmula _row.record.cells ['Numero'].value.sum() para sumar el número total de _#Hashtags_ publicados sobre una misma fiesta. Para conseguir este resultado ha sido necesario crear una nueva columna sobre la dedicada al número de _tweets_ por _#Hashtag_, utilizando dicha fórmula. Así, se han contabilizado los resultados totales de las ocho fiestas más felicitadas en Twitter.
 
+![suma.png](/img.suma.png)
 
 ## Representación gráfica y justificación 
 
