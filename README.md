@@ -14,6 +14,3 @@ Es una _API_ que tiene cuatro tareas posibles:
 3. DELETE
 4. PUT
 
-## Una imagen 
-![Infografía](/img/descarga.jpg)
-
