@@ -83,11 +83,11 @@
 <p>La primera dificultad que se ha encontrado en el documento reside en que los datos con los que se ha trabajado no representan la realidad en su totalidad. Todos aquellos días en los que los <em>#Hashtags</em> no han superado los 10.000 <em>tweets</em> no son contabilizados en el CSV. Por lo tanto, las informaciones con las que se cuenta son una estimación. En <em>OpenRefine</em> se han seleccionadolos datos más interesantes para su representación. Así, se han seleccionado aquellos relacionados con las festividades y se ha desechado el resto.</p>
 <p>Para la creación de los gráficos se ha escogido un período de tiempo delimitado. El año 2020 resulta más interesante en cuanto a cantidad de <em>tweets</em> a pesar del tramo sin informaciones de los meses de verano. Esto se debe a que diciembre es especialmenteactivo en <em>Twitter</em>. Para trabajar con estos datos se ha creado una <strong>faceta temporal</strong> y se ha seleccionado este intervalo de tiempo (marzo 2020 – diciembre 2020). De este modo también se evita contar con los datos de 2021 relativos a las mismas festividades.</p>
 <figure>
-<img class="my-3" src="img/cluster.png">
+<img class="my-3" src="img/cluster.png"> alt="imagen de la faceta temporal"
 <p>Después se ha procedido a eliminar las celdas vacías que no contenían el total de <em>#Hashtags</em>. Para ello se ha creado una <strong>nueva faceta personalizada para celdas nulas</strong> que separa filas en blanco y filas con datos. Después se han eliminado aquellas celdas vacías.</p>
 <p>Una vez eliminadas se ha utilizado la función <strong>Cluster</strong> para agrupar aquellos <em>#Hashtags</em> que tratan la misma temática y que varían solamente en algunos caracteres (por ejemplo, <em>#Feliz Dia de Navidad</em> y <em>#FelizNavidad</em>). En la columna dedicada a los nombres de los <em>#Hashtags</em> se ha usado la herramienta de <strong>Editar texto</strong>. Con ella se han cambiado varios caracteres de algunos <em>tweets</em>. Por ejemplo, se ha editado el nombre de la etiqueta <em>Feliz Año</em> para que el <em>#Hashtag</em> no tenga espaciado (#FelizAño). Este cambio se ha aplicado a toda la columna con la que se ha trabajado.</p>
 <figure>
-<img class="my-3" src="img/editar.png">
+<img class="my-3" src="img/editar.png"> alt="imagen de cómo editar las celdas"
 <p>Dado que lo más importante para el trabajo era exponer la cantidad de <em>tweets</em> sobre una fiesta en un año concreto, la columna <em>Fecha</em> no resultaba relevante. Lo que se pretendía era realizar un <em>sumatorio del número de veces que se ha twitteado sobre una festividad en el año 2020</em>. Para ello, en la columna en la que se encuentran los <em>#Hashtags</em> se aplicó un <strong>blankdown</strong> que agrupa todos los nombres que se repiten de los seleccionados, dejando los ocho valores con los que se quería trabajar:</p>
 <ul>
 <li><pre><code>  FelizNavidad (33.145.172)</code></pre></li>
@@ -100,10 +100,10 @@
 <li><pre><code>  Feliz Pascua (124.774)</code></pre></li>
 </ul>
 <figure>
-<img class="my-3" src="img/blank.png">
+<img class="my-3" src="img/blank.png"> alt="imagen del blankdown"
 <p>Por último, se ha utilizado la fórmula <em>row.record.cells [‘Numero’].value.sum() para sumar el número total de </em>#Hashtags_ publicados sobre una misma fiesta. Para conseguir este resultado ha sido necesario crear una nueva columna sobre la dedicada al número de <em>tweets</em> por <em>#Hashtag</em>, utilizando dicha fórmula. Así, se han contabilizado los resultados totales de las ocho fiestas más felicitadas en <em>Twitter</em>.</p>
 <figure>
-<img class="my-3" src="img/suma.png">
+<img class="my-3" src="img/suma.png"> alt="imagen de la fórmula row record cells"
 </figure>
 <h2 id="representación-gráfica-y-justificación">Representación gráfica y justificación</h2>
 <p>Para la creación de los gráficos se ha utilizado tanto la academia de Datawrapper como el catálogo de la visualización de datos.</p>
