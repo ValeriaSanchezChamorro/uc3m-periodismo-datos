@@ -71,16 +71,21 @@
 </header>
 
 <!-- Begin page content -->
+
 <main class="flex-shrink-0">
   <div class="container">
+
 <h1 id="cuál-es-la-metodología">Metodologías</h1>
+
 <p>Para realizar la práctica 5 orientada al diseño de esta página web lo primero que se ha hecho es descargar los ejemplos de <strong>Bootstrap</strong>, una biblioteca de ejemplos de plantillas que permite la creación de la página web. Posteriormente, se ha usado 7-zip para hacer <em>unzip</em> de sticky-footer-navbar. Del mismo modo, se realizó un <em>unzip</em> para descomprimir la carpeta de “assets”, que contenía “dist” en su interior, y esta a su vez “css”. Esta última carpeta es la verdaderamente interesante, ya que contiene el estilo de <strong>Bootstrap.min</strong>. Una vez descomprimidos los archivos, se ha procedido a crear diversas carpetas con el comando <em>mkdir</em>. La primera de ellas, <strong>docs</strong>, contiene a su vez la carpeta <strong>css</strong> y la carpeta <strong>js</strong>, que llevará dentro el archivo <em>Bootstrap.bundle.min.js</em>. Después, se ha utilizado el comando <em>mv</em> para mover los archivos a las nuevas carpetas. Así, se han hecho los siguientes cambios:
  
 <li>Los contenidos de sticky-footer-navbar, <strong>index.html</strong> y <strong>sticky-footer-header.css</strong> se han movido a <strong>docs</strong>.  
 <li><strong>Bootstrap.min.css</strong> se ha movido a <strong>css</strong> y <strong>css</strong> se ha movido a <strong>docs</strong>. 
 <li><strong>Bootstrap.bundle.min.js</strong> se ha movido a <strong>js</strong> y <strong>js</strong> se ha movido a <strong>docs</strong>. 
-Una vez creada la carpeta <strong>docs</strong>, desde el repositorio de GitHub, se ha accedido a <strong>Settings</strong> &gt; <strong>Pages</strong> y se ha seleccionado como rama principal <strong>docs</strong>. Después se ha guardado. Seguidamente se han creado nuevos archivos que dan forma a la página web dentro de la carpeta docs (en formato html). Estos son:
+
+<p>Una vez creada la carpeta <strong>docs</strong>, desde el repositorio de GitHub, se ha accedido a <strong>Settings</strong> &gt; <strong>Pages</strong> y se ha seleccionado como rama principal <strong>docs</strong>. Después se ha guardado. Seguidamente se han creado nuevos archivos que dan forma a la página web dentro de la carpeta docs (en formato html). Estos son:
  
+
 <li>Cabecera.html 
 <li>Pie.html 
 <li>Práctica1.html 
@@ -88,14 +93,15 @@ Una vez creada la carpeta <strong>docs</strong>, desde el repositorio de GitHub,
 <li>Práctica3.html 
 <li>Metodologías.html 
 
-<p>En ellos, se ha copiado el formato de <strong>index.html</strong> y se ha pegado el contenido de las prácticas (o se ha escrito un texto en aquellos como metodologías) en la parte correspondiente, debajo de “Begin page content”. Sin embargo, para pegar el contenido de las prácticas hay que utilizar lenguaje html. Para conseguir transformar este lenguaje markdown en html se ha utilizado <strong>Pandoc</strong>. En la terminal, se ha hecho apt-cyg-install Pandoc. Una vez convertidos a html 5, se han pegado en los nuevos archivos. Asimismo, se ha editado el <strong>Header</strong> para lograr que apareciesen todas las prácticas accesibles en la cabecera, y que fuese posible realizar un retorno a la página de inicio situada en el Index.html. Para ello se han realizado los siguientes cambios en el Header:>
- 
-<li>a class=“navbar-brand” href=“Index.html”&gt;Valeria S. Chamorro</a
-<li>a class="nav-link active" aria-current="page" href="Practica1.html">Práctica 1</a
-<li>a class="nav-link" href="Práctica2.html">Práctica 2</a
-<li>a class="nav-link" href="Práctica3.html">Prácticas 3 y 4</a
 
-<p>Una vez realizados todos estos pasos, se han revisado las imágenes y los enlaces, que habían dado algunos problemas. La carpeta de **img**, ya existente en el repositorio, se ha movido a **docs** con _mv_. Una vez hecho esto, se ha usado <img class="my-3" src="img/semana.png"> (ejemplo de nombre de imagen) para que quedaran encuadradas en la página web. Otros pasos seguidos en el diseño de la web:
+<p>En ellos, se ha copiado el formato de <strong>index.html</strong> y se ha pegado el contenido de las prácticas (o se ha escrito un texto en aquellos como metodologías) en la parte correspondiente, debajo de “Begin page content”. Sin embargo, para pegar el contenido de las prácticas hay que utilizar lenguaje html. Para conseguir transformar este lenguaje markdown en html se ha utilizado <strong>Pandoc</strong>. En la terminal, se ha hecho apt-cyg-install Pandoc. Una vez convertidos a html 5, se han pegado en los nuevos archivos. Asimismo, se ha editado el <strong>Header</strong> para lograr que apareciesen todas las prácticas accesibles en la cabecera, y que fuese posible realizar un retorno a la página de inicio situada en el Index.html. Para ello se han realizado los siguientes cambios en el Header:
+ 
+<li>'a class = 'navbar-brand' href = “Index.html”&gt ; Valeria S. Chamorro</a'
+<li>'a class = 'nav-link active' aria-current='page' href ='Practica1.html'>Práctica 1</a'
+<li>'a 'class = 'nav-link' href = 'Práctica2.html'>Práctica 2</a'
+<li>a class = 'nav-link' href = 'Práctica3.html'>Prácticas 3 y 4</a
+
+<p>Una vez realizados todos estos pasos, se han revisado las imágenes y los enlaces, que habían dado algunos problemas. La carpeta de **img**, ya existente en el repositorio, se ha movido a **docs** con _mv_. Una vez hecho esto, se ha usado <'img class = 'my-3' src = 'img/semana.png'> (ejemplo de nombre de imagen) para que quedaran encuadradas en la página web. Otros pasos seguidos en el diseño de la web:
  
 <li>Se ha cambiado el autor a Valeria Sánchez Chamorro (meta name=”autor” content=) 
 <li>Se ha cambiado el título a “Trabajo final de la asignatura Periodismo de Datos” 
@@ -106,7 +112,7 @@ Una vez creada la carpeta <strong>docs</strong>, desde el repositorio de GitHub,
 
 <p>Todos los pasos seguidos en la terminal se han ido actualizando con los pasos necesarios (git status, git add, git commit -m, git push).</p>
 </ul>    <h1 class="mt-5"></h1>
-    <p class="lead"> <code class="small"></code>  <code class="small"> &gt; </code>.</p>
+    <p class="lead"> <code class="small"></code>  <code class="small"> &gt; </code></p>
     <p><a href="../examples/sticky-footer/"></a></p>
   </div>
 </main>
