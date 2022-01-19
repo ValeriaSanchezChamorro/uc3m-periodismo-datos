@@ -97,7 +97,7 @@ Existen multitud de operadores que facilitan la búsqueda de resultados precisos
 - cd: comando que sirve para cambiar de directorio (cd .. para salir de una carpeta e ir al nivel superior).
 - mkdir: para crear un nuevo directorio. 
 
-**63. ¿Cómo harías para que OpenRefine interpretara correctamente los tipos de datos?*
+**63. ¿Cómo harías para que OpenRefine interpretara correctamente los tipos de datos?**
 
 Lo primero que haría es subir el archivo que quiero limpiar para trabajar con él en OpenRefine. Después, una vez tenga los datos en sus respectivas columnas, clicaría sobre la pestaña superior izquierda de la columna de datos que quiera interpretar de determinada forma (ya sea como texto, como fecha o como número, entre otros). Una vez en la pestaña me situaría sobre "Edit cells", sin pulsar, y después sobre "Common transforms". Por último, hay que escoger la forma en la que queremos interpretar o considerar nuestros datos: "to date", "to text", "to null", "to number", "to empty string" u otros como "to tittlecase", "to uppercase" o "to lowercase".
 
