@@ -63,7 +63,7 @@ Algunas similitudes y diferencias con respecto a HTML serían las siguientes:
 
 - Las listas en Markdown se escriben colocando un guion delante de cada elemento de la lista (-) o un número en el caso de un listado numerado ( 1. ), mientras que en HTML utilizamos < ul > para listas sin ordenar, "< ol >" para listas ordenadas antes de la numeración que hagamos y "< li >" antes de cada elemento de la lista. 
 
-- Los encabezados en HTML se escriben también diferente. Para conseguir el encabezado de mayor tamaño pondremos "<h1>". A medida que aumentan los números, disminuye el tamaño. Para hacer esto mismo en lenguaje Markdown utilizaremos las almohadillas ( # ) siguiendo la misma lógica. Para el encabezado de mayor tamaño utilizaremos una, para conseguir uno más pequeño utilizaremos dos, y así sucesivamente.
+- Los encabezados en HTML se escriben también diferente. Para conseguir el encabezado de mayor tamaño pondremos "< h1 >". A medida que aumentan los números, disminuye el tamaño. Para hacer esto mismo en lenguaje Markdown utilizaremos las almohadillas ( # ) siguiendo la misma lógica. Para el encabezado de mayor tamaño utilizaremos una, para conseguir uno más pequeño utilizaremos dos, y así sucesivamente.
 
 - En Markdown un párrafo se escribe presionando la tecla "enter" dos veces, mientras que en HTML hay que escribir "<p>" al principio de párrafo y "</p>" al final para que se lea correctamente y se haga la separación. 
 
