@@ -63,9 +63,9 @@ Algunas similitudes y diferencias con respecto a HTML serían las siguientes:
 
 - Las listas en Markdown se escriben colocando un guion delante de cada elemento de la lista (-) o un número en el caso de un listado numerado ( 1. ), mientras que en HTML utilizamos < ul > para listas sin ordenar, "< ol >" para listas ordenadas antes de la numeración que hagamos y "< li >" antes de cada elemento de la lista. 
 
-- Los encabezados en HTML se escriben también diferente. Para conseguir el encabezado de mayor tamaño pondremos "<h1>". A medida que aumentan los números, disminuye el tamaño. Para hacer esto mismo en lenguaje Markdown utilizaremos las almohadillas ( # ) siguiendo la misma lógica. Para el encabezado de mayor tamaño utilizaremos una, para conseguir uno más pequeño utilizaremos dos, y así sucesivamente.
+- Los encabezados en HTML se escriben también diferente. Para conseguir el encabezado de mayor tamaño pondremos "< h1 >". A medida que aumentan los números, disminuye el tamaño. Para hacer esto mismo en lenguaje Markdown utilizaremos las almohadillas ( # ) siguiendo la misma lógica. Para el encabezado de mayor tamaño utilizaremos una, para conseguir uno más pequeño utilizaremos dos, y así sucesivamente.
 
-- En Markdown un párrafo se escribe presionando la tecla "enter" dos veces, mientras que en HTML hay que escribir "<p>" al principio de párrafo y "</p>" al final para que se lea correctamente y se haga la separación. 
+- En Markdown un párrafo se escribe presionando la tecla "enter" dos veces, mientras que en HTML hay que escribir "< p >" al principio de párrafo y "< /p >" al final para que se lea correctamente y se haga la separación. 
 
 **6. ¿Cuál es la diferencia entre Internet y la Web? Razona tu respuesta.**
  
@@ -73,7 +73,7 @@ Internet es una red de ordenadores distribuidos por todo el mundo y conectados e
 
 **27. ¿Cuál es la versión de Shell que utilizas?**
 
-La versión de Shell que utilizo es /bin/bash
+La versión de Shell que utilizo es /bin/bash.
 
 **26. ¿Cómo te descargarías la web theguardian.com desde la línea de comandos?**
 
@@ -82,7 +82,7 @@ Para descargar la web primero copiaría la URL del _The Guardian_. Después, en 
 **17. ¿Qué tipos de archivos de documentos de texto conoces?**
 
 Conozco tres tipos de archivo: **SV**, **JSON** y **XML**. 
-- Los SV o valores separados por cualquier valor son los más sencillos, aunque los menos estandarizados. Se suelen llamar CSV aunque no utilicen comas, y permiten visualizar los datos en tablas simples con filas y columnas. Además, la mayoría de recursos disponibles en abierto tienen formato CSV. Los JSON son más complejos de leer, pero son aquellos que tienen un mejor funcionamiento en la web. Por último, los XML son los más complejos de leer y con los que resulta más difícil trabajar. 
+Los SV o valores separados por cualquier valor son los más sencillos, aunque los menos estandarizados. Se suelen llamar CSV aunque no utilicen comas, y permiten visualizar los datos en tablas simples con filas y columnas. Además, la mayoría de recursos disponibles en abierto tienen formato CSV. Los JSON son más complejos de leer, pero son aquellos que tienen un mejor funcionamiento en la web. Por último, los XML son los más complejos de leer y con los que resulta más difícil trabajar. 
 
 **91. Pon un ejemplo de operadores que hemos utilizado o bien en la terminal o en buscadores de la web.**
  
@@ -111,7 +111,7 @@ En Mardown utilizamos la almohadilla (#) como un caracter para indicar que lo qu
 
 **52. ¿Cómo ves todos los dialectos de la shell disponibles?**
 
-Para ver todos los dialectos de la shell debes hacer lo siguiente: "cat /etc/shells. Cuando lo haces, aparece un listado de todos los dialectos disponibles.
+Para ver todos los dialectos de la shell debes hacer lo siguiente: "cat /etc/shells". Cuando lo haces, aparece un listado de todos los dialectos disponibles.
 
 **42. ¿En qué se diferencian las rutas absolutas de las relativas? Pon ejemplos de ambas.**
 
@@ -119,9 +119,9 @@ Una ruta es una lista de nombres de directorio separados por barras y seguida po
 
 **23. ¿Qué son git y Github?**
 
--**Git** es un software, un programa para el trabajo colaborativo y distribuido que se utiliza en proyectos de periodismo y visualización de datos. Tiene multitud de ventajas porque permite volver a momentos concretos de los proyectos, acostumbra a trabajar comentando lo que hacemos y convierte en hábito el software cliente-servidor. Además, permite tener más de un servidor. Los inconvenientes al utilizar Git se reducen a no saber bien cómo funciona. 
+- **Git** es un software, un programa para el trabajo colaborativo y distribuido que se utiliza en proyectos de periodismo y visualización de datos. Tiene multitud de ventajas porque permite volver a momentos concretos de los proyectos, acostumbra a trabajar comentando lo que hacemos y convierte en hábito el software cliente-servidor. Además, permite tener más de un servidor. Los inconvenientes al utilizar Git se reducen a no saber bien cómo funciona. 
  
--**GitHub** es una de las herramientas más usadas en el periodismo de datos. Se compone de "git" (software) y "hub" (el espacio montado por GitHub para trabajar en él). Así, GitHub es un espacio donde podemos alojar nuestros repositorios y proyectos git, crear repositorios y crear proyectos, entre otras funciones. Para escribir se utiliza la sintaxis simple de Markdown, que ha sido anteriormente explicada.
+- **GitHub** es una de las herramientas más usadas en el periodismo de datos. Se compone de "git" (software) y "hub" (el espacio montado por GitHub para trabajar en él). Así, GitHub es un espacio donde podemos alojar nuestros repositorios y proyectos git, crear repositorios y crear proyectos, entre otras funciones. Para escribir se utiliza la sintaxis simple de Markdown, que ha sido anteriormente explicada.
 
 **82. Explica la URL hhtps://github.com/pontedatos/uc3m-periodismo-datos.**
 
@@ -129,7 +129,7 @@ Una ruta es una lista de nombres de directorio separados por barras y seguida po
  
  - github.com es el dominio de la URL. Se lee de derecha a izquierda por orden de importancia, por lo que ".com" es el _top level domain_, el dominio de primer nivel. 
  
- -Lo que aparece a la derecha de de la barra (/) es la estructura de carpetas que tiene el servidor web. Así, /pontedatos/uc3m-periodismo-datos/ sería la estructura completa de carpetas, pero /pontedatos/ sería una organización dentro de GitHub y /uc3m-periodismo-datos/ sería un repositorio dentro de esta organización.
+ - Lo que aparece a la derecha de de la barra (/) es la estructura de carpetas que tiene el servidor web. Así, /pontedatos/uc3m-periodismo-datos/ sería la estructura completa de carpetas, pero /pontedatos/ sería una organización dentro de GitHub y /uc3m-periodismo-datos/ sería un repositorio dentro de esta organización.
 
 **79. ¿Qué es una API? Pon algún ejemplo.**
  
@@ -157,13 +157,14 @@ La materia del periodismo de datos es la informática, ya que para el periodismo
 Si sale esto puede haber diferentes motivos:
 - El comando escrito no está disponible en el sistema
 - El directorio del comando no está en la ruta de búsqueda
+ 
 Lo primero que hay que hacer es asegurarnos de que la variable PATH de la shell está bien configurada y después verificar la variable del entorno PATH. También es posible verificar si el archivo que queremos ejecutar existe en la caja de Unix o Linux. Por último, asegurarnos de que hemos escrito bien el comando y los caracteres, ver si el paquete software está instalado para el comando que falta y si tiene permiso para ejecutarlo. Es necesario apuntar que algunos comandos requieren "sudo" porque deben ejecutarse como usuario root.
 
 **39. ¿Qué se puede hacer para ver el contenido de un archivo de texto?**
 
 Para ver el contenido de un archivo de texto podemos utilizar el comando "TYPE". Este comando permite visualizar por pantalla el contenido de un archivo de texto. Si tengo un archivo llamado "feliz.txt", pondré "TYPE feliz.txt" en la terminal, estando ubicado en el directorio correspondiente.
 
-**40. ¿Cómo creamos un directorio? ¿Y dos directorios? Razona tu respuesta.*
+**40. ¿Cómo creamos un directorio? ¿Y dos directorios? Razona tu respuesta.**
 
 Para crear un directorio utilizamos el comando "MKDIR". Por ejemplo, si quiero crear un directorio llamado "examen" es posible escribir "MKDIR pruebas". Después, con la orden DIR puedo comprobar si dicho directorio se ha creado. Para facilitar el trabajo la herramienta nos permite crear dos directorios a la vez. Lo que habría que hacer es "("MKDIR "nombredirectorio1" "nombredirectorio2")". 
 
