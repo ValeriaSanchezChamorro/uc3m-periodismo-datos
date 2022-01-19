@@ -65,7 +65,7 @@ Algunas similitudes y diferencias con respecto a HTML serían las siguientes:
 
 - Los encabezados en HTML se escriben también diferente. Para conseguir el encabezado de mayor tamaño pondremos "< h1 >". A medida que aumentan los números, disminuye el tamaño. Para hacer esto mismo en lenguaje Markdown utilizaremos las almohadillas ( # ) siguiendo la misma lógica. Para el encabezado de mayor tamaño utilizaremos una, para conseguir uno más pequeño utilizaremos dos, y así sucesivamente.
 
-- En Markdown un párrafo se escribe presionando la tecla "enter" dos veces, mientras que en HTML hay que escribir "<p>" al principio de párrafo y "</p>" al final para que se lea correctamente y se haga la separación. 
+- En Markdown un párrafo se escribe presionando la tecla "enter" dos veces, mientras que en HTML hay que escribir "< p >" al principio de párrafo y "< /p >" al final para que se lea correctamente y se haga la separación. 
 
 **6. ¿Cuál es la diferencia entre Internet y la Web? Razona tu respuesta.**
  
