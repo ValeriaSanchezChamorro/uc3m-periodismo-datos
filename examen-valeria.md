@@ -73,7 +73,7 @@ Internet es una red de ordenadores distribuidos por todo el mundo y conectados e
 
 **27. ¿Cuál es la versión de Shell que utilizas?**
 
-La versión de Shell que utilizo es /bin/bash
+La versión de Shell que utilizo es /bin/bash.
 
 **26. ¿Cómo te descargarías la web theguardian.com desde la línea de comandos?**
 
@@ -111,7 +111,7 @@ En Mardown utilizamos la almohadilla (#) como un caracter para indicar que lo qu
 
 **52. ¿Cómo ves todos los dialectos de la shell disponibles?**
 
-Para ver todos los dialectos de la shell debes hacer lo siguiente: "cat /etc/shells. Cuando lo haces, aparece un listado de todos los dialectos disponibles.
+Para ver todos los dialectos de la shell debes hacer lo siguiente: "cat /etc/shells". Cuando lo haces, aparece un listado de todos los dialectos disponibles.
 
 **42. ¿En qué se diferencian las rutas absolutas de las relativas? Pon ejemplos de ambas.**
 
