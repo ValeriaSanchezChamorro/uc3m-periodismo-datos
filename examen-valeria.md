@@ -129,7 +129,7 @@ Una ruta es una lista de nombres de directorio separados por barras y seguida po
  
  - github.com es el dominio de la URL. Se lee de derecha a izquierda por orden de importancia, por lo que ".com" es el _top level domain_, el dominio de primer nivel. 
  
- -Lo que aparece a la derecha de de la barra (/) es la estructura de carpetas que tiene el servidor web. Así, /pontedatos/uc3m-periodismo-datos/ sería la estructura completa de carpetas, pero /pontedatos/ sería una organización dentro de GitHub y /uc3m-periodismo-datos/ sería un repositorio dentro de esta organización.
+ - Lo que aparece a la derecha de de la barra (/) es la estructura de carpetas que tiene el servidor web. Así, /pontedatos/uc3m-periodismo-datos/ sería la estructura completa de carpetas, pero /pontedatos/ sería una organización dentro de GitHub y /uc3m-periodismo-datos/ sería un repositorio dentro de esta organización.
 
 **79. ¿Qué es una API? Pon algún ejemplo.**
  
