@@ -82,7 +82,7 @@ Para descargar la web primero copiaría la URL del _The Guardian_. Después, en 
 **17. ¿Qué tipos de archivos de documentos de texto conoces?**
 
 Conozco tres tipos de archivo: **SV**, **JSON** y **XML**. 
-- Los SV o valores separados por cualquier valor son los más sencillos, aunque los menos estandarizados. Se suelen llamar CSV aunque no utilicen comas, y permiten visualizar los datos en tablas simples con filas y columnas. Además, la mayoría de recursos disponibles en abierto tienen formato CSV. Los JSON son más complejos de leer, pero son aquellos que tienen un mejor funcionamiento en la web. Por último, los XML son los más complejos de leer y con los que resulta más difícil trabajar. 
+Los SV o valores separados por cualquier valor son los más sencillos, aunque los menos estandarizados. Se suelen llamar CSV aunque no utilicen comas, y permiten visualizar los datos en tablas simples con filas y columnas. Además, la mayoría de recursos disponibles en abierto tienen formato CSV. Los JSON son más complejos de leer, pero son aquellos que tienen un mejor funcionamiento en la web. Por último, los XML son los más complejos de leer y con los que resulta más difícil trabajar. 
 
 **91. Pon un ejemplo de operadores que hemos utilizado o bien en la terminal o en buscadores de la web.**
  
@@ -119,9 +119,9 @@ Una ruta es una lista de nombres de directorio separados por barras y seguida po
 
 **23. ¿Qué son git y Github?**
 
--**Git** es un software, un programa para el trabajo colaborativo y distribuido que se utiliza en proyectos de periodismo y visualización de datos. Tiene multitud de ventajas porque permite volver a momentos concretos de los proyectos, acostumbra a trabajar comentando lo que hacemos y convierte en hábito el software cliente-servidor. Además, permite tener más de un servidor. Los inconvenientes al utilizar Git se reducen a no saber bien cómo funciona. 
+- **Git** es un software, un programa para el trabajo colaborativo y distribuido que se utiliza en proyectos de periodismo y visualización de datos. Tiene multitud de ventajas porque permite volver a momentos concretos de los proyectos, acostumbra a trabajar comentando lo que hacemos y convierte en hábito el software cliente-servidor. Además, permite tener más de un servidor. Los inconvenientes al utilizar Git se reducen a no saber bien cómo funciona. 
  
--**GitHub** es una de las herramientas más usadas en el periodismo de datos. Se compone de "git" (software) y "hub" (el espacio montado por GitHub para trabajar en él). Así, GitHub es un espacio donde podemos alojar nuestros repositorios y proyectos git, crear repositorios y crear proyectos, entre otras funciones. Para escribir se utiliza la sintaxis simple de Markdown, que ha sido anteriormente explicada.
+- **GitHub** es una de las herramientas más usadas en el periodismo de datos. Se compone de "git" (software) y "hub" (el espacio montado por GitHub para trabajar en él). Así, GitHub es un espacio donde podemos alojar nuestros repositorios y proyectos git, crear repositorios y crear proyectos, entre otras funciones. Para escribir se utiliza la sintaxis simple de Markdown, que ha sido anteriormente explicada.
 
 **82. Explica la URL hhtps://github.com/pontedatos/uc3m-periodismo-datos.**
 
