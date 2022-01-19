@@ -164,7 +164,7 @@ Lo primero que hay que hacer es asegurarnos de que la variable PATH de la shell 
 
 Para ver el contenido de un archivo de texto podemos utilizar el comando "TYPE". Este comando permite visualizar por pantalla el contenido de un archivo de texto. Si tengo un archivo llamado "feliz.txt", pondré "TYPE feliz.txt" en la terminal, estando ubicado en el directorio correspondiente.
 
-**40. ¿Cómo creamos un directorio? ¿Y dos directorios? Razona tu respuesta.*
+**40. ¿Cómo creamos un directorio? ¿Y dos directorios? Razona tu respuesta.**
 
 Para crear un directorio utilizamos el comando "MKDIR". Por ejemplo, si quiero crear un directorio llamado "examen" es posible escribir "MKDIR pruebas". Después, con la orden DIR puedo comprobar si dicho directorio se ha creado. Para facilitar el trabajo la herramienta nos permite crear dos directorios a la vez. Lo que habría que hacer es "("MKDIR "nombredirectorio1" "nombredirectorio2")". 
 
