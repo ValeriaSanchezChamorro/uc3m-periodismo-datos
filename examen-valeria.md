@@ -120,11 +120,14 @@ Una ruta es una lista de nombres de directorio separados por barras y seguida po
 **23. ¿Qué son git y Github?**
 
 -Git es un software, un programa para el trabajo colaborativo y distribuido que se utiliza en proyectos de periodismo y visualización de datos. Tiene multitud de ventajas porque permite volver a momentos concretos de los proyectos, acostumbra a trabajar comentando lo que hacemos y convierte en hábito el software cliente-servidor. Además, permite tener más de un servidor. Los inconvenientes al utilizar Git se reducen a no saber bien cómo funciona. 
+ 
 -GitHub es una de las herramientas más usadas en el periodismo de datos. Se compone de "git" (software) y "hub" (el espacio montado por GitHub para trabajar en él). Así, GitHub es un espacio donde podemos alojar nuestros repositorios y proyectos git, crear repositorios y crear proyectos, entre otras funciones. Para escribir se utiliza la sintaxis simple de Markdown, que ha sido anteriormente explicada.
 
 **82. Explica la URL hhtps://github.com/pontedatos/uc3m-periodismo-datos.**
 
-- https:// es el protocolo que se usa para diseñar el software de las aplicaciones. La "-s" indica que se trata de un sitio seguro y "://" es lo que separa el protocolo del dominio. - github.com es el dominio de la URL. Se lee de derecha a izquierda por orden de importancia, por lo que ".com" es el _top level domain_, el dominio de primer nivel. -Lo que aparece a la derecha de de la barra (/) es la estructura de carpetas que tiene el servidor web. Así, /pontedatos/uc3m-periodismo-datos/ sería la estructura completa de carpetas, pero /pontedatos/ sería una organización dentro de GitHub y /uc3m-periodismo-datos/ sería un repositorio dentro de esta organización.
+- https:// es el protocolo que se usa para diseñar el software de las aplicaciones. La "-s" indica que se trata de un sitio seguro y "://" es lo que separa el protocolo del dominio. 
+ - github.com es el dominio de la URL. Se lee de derecha a izquierda por orden de importancia, por lo que ".com" es el _top level domain_, el dominio de primer nivel. 
+ -Lo que aparece a la derecha de de la barra (/) es la estructura de carpetas que tiene el servidor web. Así, /pontedatos/uc3m-periodismo-datos/ sería la estructura completa de carpetas, pero /pontedatos/ sería una organización dentro de GitHub y /uc3m-periodismo-datos/ sería un repositorio dentro de esta organización.
 
 **79. ¿Qué es una API? Pon algún ejemplo.**
 Una API o interfaz de programación de aplicaciones es un conjunto de protocolos y definiciones que usamos para diseñar e integrar el software de las aplicaciones. Un ejemplo sería HTTP o HTTPS.
