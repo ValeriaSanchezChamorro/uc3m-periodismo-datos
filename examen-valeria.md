@@ -59,11 +59,11 @@ Como formato de fecha eligiría el siguiente: YYYY-MM-DD. Esta es la forma está
 Markdown es un lenguaje que fue creado por John Gruber debido a la dificultad que suponía la lectura de un texto escrito con código HTML. Así, este lenguajese compone de una sintaxis simple que nos permite escribir usando un formato de texto sencillo. A su vez, funciona como un parseador, ya que convierte esa sintasis en HTML. 
 Algunas similitudes y diferencias con respecto a HTML serían las siguientes:
 
-- En Markdown, para enfatizar un texto, se utilizan dos asteriscos para las letras negritas, antes y después de la palabra. Para las itálicas, se utiliza un guion bajo antes y después de la palabra. Por el contrario, en HTML se emplea <strong> "palabra" </strong> para las negritas y <em> "palabra" </em> para las itálicas.
+- En Markdown, para enfatizar un texto, se utilizan dos asteriscos para las letras negritas, antes y después de la palabra. Para las itálicas, se utiliza un guion bajo antes y después de la palabra. Por el contrario, en HTML se emplea < strong > "palabra" < /strong > para las negritas y < em > "palabra" < /em > para las itálicas.
 
-- Las listas en Markdown se escriben colocando un guion delante de cada elemento de la lista (-) o un número en el caso de un listado numerado (1.), mientras que en HTML utilizamos <ul> para listas sin ordenar, "<ol>" para listas ordenadas antes de la numeración que hagamos y "<li>" antes de cada elemento de la lista. 
+- Las listas en Markdown se escriben colocando un guion delante de cada elemento de la lista (-) o un número en el caso de un listado numerado ( 1. ), mientras que en HTML utilizamos < ul > para listas sin ordenar, "< ol >" para listas ordenadas antes de la numeración que hagamos y "< li >" antes de cada elemento de la lista. 
 
-- Los encabezados en HTML se escriben también diferente. Para conseguir el encabezado de mayor tamaño pondremos "<h1>". A medida que aumentan los números, disminuye el tamaño. Para hacer esto mismo en lenguaje Markdown utilizaremos las almohadillas (#) siguiendo la misma lógica. Para el encabezado de mayor tamaño utilizaremos una, para conseguir uno más pequeño utilizaremos dos, y así sucesivamente.
+- Los encabezados en HTML se escriben también diferente. Para conseguir el encabezado de mayor tamaño pondremos "<h1>". A medida que aumentan los números, disminuye el tamaño. Para hacer esto mismo en lenguaje Markdown utilizaremos las almohadillas ( # ) siguiendo la misma lógica. Para el encabezado de mayor tamaño utilizaremos una, para conseguir uno más pequeño utilizaremos dos, y así sucesivamente.
 
 - En Markdown un párrafo se escribe presionando la tecla "enter" dos veces, mientras que en HTML hay que escribir "<p>" al principio de párrafo y "</p>" al final para que se lea correctamente y se haga la separación. 
 
@@ -87,15 +87,15 @@ Conozco tres tipos de archivo: **SV**, **JSON** y **XML**.
 **91. Pon un ejemplo de operadores que hemos utilizado o bien en la terminal o en buscadores de la web.**
  
 Existen multitud de operadores que facilitan la búsqueda de resultados precisos tanto en la terminal como en los buscadores de la web. Algunos podrían ser:
-- OR: Nos muestra resultados que obtengan cualquiera de las palabras incluidas. Por ejemplo: datos OR periodismo. 
-- AND: permite obtener resultados que incluyan los dos términos escritos. Por ejemplo: datos AND periodismo. 
-- FILETYPE: busca los resultados que contengan archivos con el formato que hayamos especificado. Por ejemplo: filetype:pdf periodismo de datos.
+- **OR**: Nos muestra resultados que obtengan cualquiera de las palabras incluidas. Por ejemplo: datos OR periodismo. 
+- **AND**: permite obtener resultados que incluyan los dos términos escritos. Por ejemplo: datos AND periodismo. 
+- **FILETYPE**: busca los resultados que contengan archivos con el formato que hayamos especificado. Por ejemplo: filetype:pdf periodismo de datos.
 
 **83. Apunta tres comandos que hayas utilizado y para qué.**
 
-- ls: lista de los elementos de un directorio. También he utilizado "ls -a" y "ls -la", más precisos porque muestran archivos ocultos. 
-- cd: comando que sirve para cambiar de directorio (cd .. para salir de una carpeta e ir al nivel superior).
-- mkdir: para crear un nuevo directorio. 
+- **ls**: lista de los elementos de un directorio. También he utilizado "ls -a" y "ls -la", más precisos porque muestran archivos ocultos. 
+- **cd**: comando que sirve para cambiar de directorio (cd .. para salir de una carpeta e ir al nivel superior).
+- **mkdir**: para crear un nuevo directorio. 
 
 **63. ¿Cómo harías para que OpenRefine interpretara correctamente los tipos de datos?*
 
@@ -119,17 +119,20 @@ Una ruta es una lista de nombres de directorio separados por barras y seguida po
 
 **23. ¿Qué son git y Github?**
 
--Git es un software, un programa para el trabajo colaborativo y distribuido que se utiliza en proyectos de periodismo y visualización de datos. Tiene multitud de ventajas porque permite volver a momentos concretos de los proyectos, acostumbra a trabajar comentando lo que hacemos y convierte en hábito el software cliente-servidor. Además, permite tener más de un servidor. Los inconvenientes al utilizar Git se reducen a no saber bien cómo funciona. 
+-**Git** es un software, un programa para el trabajo colaborativo y distribuido que se utiliza en proyectos de periodismo y visualización de datos. Tiene multitud de ventajas porque permite volver a momentos concretos de los proyectos, acostumbra a trabajar comentando lo que hacemos y convierte en hábito el software cliente-servidor. Además, permite tener más de un servidor. Los inconvenientes al utilizar Git se reducen a no saber bien cómo funciona. 
  
--GitHub es una de las herramientas más usadas en el periodismo de datos. Se compone de "git" (software) y "hub" (el espacio montado por GitHub para trabajar en él). Así, GitHub es un espacio donde podemos alojar nuestros repositorios y proyectos git, crear repositorios y crear proyectos, entre otras funciones. Para escribir se utiliza la sintaxis simple de Markdown, que ha sido anteriormente explicada.
+-**GitHub** es una de las herramientas más usadas en el periodismo de datos. Se compone de "git" (software) y "hub" (el espacio montado por GitHub para trabajar en él). Así, GitHub es un espacio donde podemos alojar nuestros repositorios y proyectos git, crear repositorios y crear proyectos, entre otras funciones. Para escribir se utiliza la sintaxis simple de Markdown, que ha sido anteriormente explicada.
 
 **82. Explica la URL hhtps://github.com/pontedatos/uc3m-periodismo-datos.**
 
 - https:// es el protocolo que se usa para diseñar el software de las aplicaciones. La "-s" indica que se trata de un sitio seguro y "://" es lo que separa el protocolo del dominio. 
+ 
  - github.com es el dominio de la URL. Se lee de derecha a izquierda por orden de importancia, por lo que ".com" es el _top level domain_, el dominio de primer nivel. 
+ 
  -Lo que aparece a la derecha de de la barra (/) es la estructura de carpetas que tiene el servidor web. Así, /pontedatos/uc3m-periodismo-datos/ sería la estructura completa de carpetas, pero /pontedatos/ sería una organización dentro de GitHub y /uc3m-periodismo-datos/ sería un repositorio dentro de esta organización.
 
 **79. ¿Qué es una API? Pon algún ejemplo.**
+ 
 Una API o interfaz de programación de aplicaciones es un conjunto de protocolos y definiciones que usamos para diseñar e integrar el software de las aplicaciones. Un ejemplo sería HTTP o HTTPS.
 
 **8. ¿Qué saberes están implicados en periodismo de datos? Razona la respuesta.**
@@ -140,6 +143,7 @@ El periodismo es la disciplina que engloba esta labor, y solo hay periodismo si 
 **78. ¿Qué ha sido determinante para el nacimiento del periodismo de datos moderno?**
 
 El periodismo de datos moderno se nutre de la combinación de diversos factores como la abundancia de código abierto, el HTML5 y el Open Data. También ha influido el periódico _The Guardian_ ya que es uno de los pioneros en el periodismo de datos. No obstante, algunos de los antecedentes más lejanos se remontan a laS décadaS de los 50 y los 60 con el surgimiento del periodismo asistido por ordenador (CAR) y el caso de la CBS. Desde los 60, los periodistas han querido monitorizar el poder a través de técnicas tecnológicas y científicas.
+ 
 **85. ¿Qué significa TSV?**
 
 El TSV o _Tab Separated Values_ son valores separados por tabuladores. De estos son herederos los CSV, los _Comma Separated Values_.
