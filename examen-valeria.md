@@ -97,7 +97,7 @@ Existen multitud de operadores que facilitan la búsqueda de resultados precisos
 - **cd**: comando que sirve para cambiar de directorio (cd .. para salir de una carpeta e ir al nivel superior).
 - **mkdir**: para crear un nuevo directorio. 
 
-**63. ¿Cómo harías para que OpenRefine interpretara correctamente los tipos de datos?*
+**63. ¿Cómo harías para que OpenRefine interpretara correctamente los tipos de datos?**
 
 Lo primero que haría es subir el archivo que quiero limpiar para trabajar con él en OpenRefine. Después, una vez tenga los datos en sus respectivas columnas, clicaría sobre la pestaña superior izquierda de la columna de datos que quiera interpretar de determinada forma (ya sea como texto, como fecha o como número, entre otros). Una vez en la pestaña me situaría sobre "Edit cells", sin pulsar, y después sobre "Common transforms". Por último, hay que escoger la forma en la que queremos interpretar o considerar nuestros datos: "to date", "to text", "to null", "to number", "to empty string" u otros como "to tittlecase", "to uppercase" o "to lowercase".
 
@@ -157,6 +157,7 @@ La materia del periodismo de datos es la informática, ya que para el periodismo
 Si sale esto puede haber diferentes motivos:
 - El comando escrito no está disponible en el sistema
 - El directorio del comando no está en la ruta de búsqueda
+ 
 Lo primero que hay que hacer es asegurarnos de que la variable PATH de la shell está bien configurada y después verificar la variable del entorno PATH. También es posible verificar si el archivo que queremos ejecutar existe en la caja de Unix o Linux. Por último, asegurarnos de que hemos escrito bien el comando y los caracteres, ver si el paquete software está instalado para el comando que falta y si tiene permiso para ejecutarlo. Es necesario apuntar que algunos comandos requieren "sudo" porque deben ejecutarse como usuario root.
 
 **39. ¿Qué se puede hacer para ver el contenido de un archivo de texto?**
